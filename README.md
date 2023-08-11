@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vikram741537
+- 👋 Hi, I’m Vikram a MCA Student
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java and DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me through www.linkedin.com/in/vikram-kushwah-5aa20b235 or kushwahvikramsingh741@gmail.com
 
 <!---
